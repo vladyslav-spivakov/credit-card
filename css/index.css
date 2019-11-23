@@ -1,0 +1,6 @@
+#card-input { 
+  -moz-appearance: textfield;
+}
+#card-input::-webkit-inner-spin-button { 
+  display: none;
+}
